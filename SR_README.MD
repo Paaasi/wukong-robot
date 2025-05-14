@@ -1,16 +1,23 @@
-# Wukong-Robot 插件：Schedule Reminder
+# Wukong-Robot Plugin: Schedule Reminder
 
-## 功能
-通过语音设定日程提醒，支持以下表达：
-- “10分钟后提醒我喝水”
-- “下午3点提醒我开会”
+## Functions
+Set schedule reminders via voice commands, supporting expressions like:
 
-## 安装方式
-将 `schedule_reminder` 文件夹放入 `plugins/` 中，并重启 Wukong。
+-"Remind me to drink water in 10 minutes"
+-"Remind me about the meeting at 3 PM"
 
-## 使用示例
-“提醒我10分钟后打电话” → 十分钟后语音提醒。
+## Installations
+Place the `schedule_reminder` folder into the plugins/ directory and restart Wukong.
 
-## 技术点
-- 使用 `apscheduler` 实现定时任务调度
-- 用正则表达式解析时间表达
+## Usage Example
+"Remind me to make a phone call in 10 minutes" → Voice reminder after ten minutes.
+
+## Technical Highlights
+-Uses apscheduler for task scheduling
+-Parses time expressions using regular expressions
+
+
+
+
+
+
