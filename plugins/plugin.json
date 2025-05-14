@@ -1,9 +1,0 @@
-{
-  "name": "schedule_reminder",
-  "desc": "通过语音设置定时提醒",
-  "author": "YourTeam",
-  "email": "team@example.com",
-  "keywords": ["提醒", "定时", "语音助手"],
-  "version": "1.0.0",
-  "require_online": false
-}
