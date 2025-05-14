@@ -10,7 +10,6 @@ import urllib3
 from robot.Updater import Updater
 from robot.Conversation import Conversation
 from robot.LifeCycleHandler import LifeCycleHandler
-
 from robot import config, utils, constants, logging, detector
 
 from server import server
