@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# author: wzpan
-# 闹钟
 
 import logging
 import os
